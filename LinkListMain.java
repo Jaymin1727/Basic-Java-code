@@ -214,7 +214,6 @@ public class LinkListMain{
         list.InsertAtEnd(10);
         list.InsertAtEnd(20);
         list.InsertAtEnd(30);
-        list.InsertAtBeginning(5);
 
         System.out.println("Original List");
         list.displayLinkList();
